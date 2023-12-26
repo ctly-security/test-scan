@@ -106,7 +106,7 @@
         <appServicePlan>ASP-rsghkprhodevaz1n24314-b692</appServicePlan>
         <stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
         <start-class>com.prudential.common.security.services.Application</start-class>
-        <spring-cloud.version>4.0.5</spring-cloud.version>
+        <spring-cloud.version>4.1.0</spring-cloud.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <revision>2.0.8</revision>
         <spring.version>6.0.8</spring.version>
