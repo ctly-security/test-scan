@@ -110,7 +110,7 @@
         <bouncycastle.version>1.70</bouncycastle.version>
         <revision>2.0.8</revision>
         <spring.version>6.0.8</spring.version>
-        <logback-classic.version>1.4.6</logback-classic.version>
+        <logback-classic.version>1.4.14</logback-classic.version>
         <azure-identity.version>1.5.1</azure-identity.version>
         <jackson-core.version>2.15.2</jackson-core.version>
         <okhttp.version>4.9.2</okhttp.version>
