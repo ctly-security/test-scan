@@ -1,1 +1,13 @@
+# Example configuration file that:
+#  - Has a private registry
+#  - Ignores lodash dependency
+#  - Disables version-updates
 
+version: 2
+updates:
+  - package-ecosystem: "maven"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    # Disable version updates for npm dependencies
+    open-pull-requests-limit: 0
