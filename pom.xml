@@ -430,7 +430,7 @@
         <dependency>
             <groupId>com.azure</groupId>
             <artifactId>azure-security-keyvault-certificates</artifactId>
-            <version>4.2.6</version>
+            <version>4.5.9</version>
             <exclusions>
                 <exclusion>
                     <groupId>com.azure</groupId>
