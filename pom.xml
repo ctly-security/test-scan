@@ -122,7 +122,7 @@
         <json-smart.version>2.4.9</json-smart.version>
         <tomcat-embed-core.version>10.1.9</tomcat-embed-core.version>
         <spring-expression.version>5.3.27</spring-expression.version>
-        <spring-vault-core.version>2.3.3</spring-vault-core.version>
+        <spring-vault-core.version>3.1.0</spring-vault-core.version>
         <micrometer-core.version>1.10.5</micrometer-core.version>
         <slf4j-api.version>1.1.0</slf4j-api.version>
         <snakeyaml.version>2.1</snakeyaml.version>
