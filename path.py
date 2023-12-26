@@ -13,7 +13,6 @@ from flask.ext.session import Session
 
 app = Flask(__name__)
 
-
 execfile('flag.py')
 execfile('key.py')
 
