@@ -124,7 +124,7 @@
         <spring-expression.version>5.3.27</spring-expression.version>
         <spring-vault-core.version>2.3.3</spring-vault-core.version>
         <micrometer-core.version>1.10.5</micrometer-core.version>
-        <slf4j-api.version>2.0.7</slf4j-api.version>
+        <slf4j-api.version>1.1.0</slf4j-api.version>
         <snakeyaml.version>2.1</snakeyaml.version>
         <junit-jupiter.version>5.9.3</junit-jupiter.version>
         <opentelemetry.javagent.version>1.29.0</opentelemetry.javagent.version>
