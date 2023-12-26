@@ -11,6 +11,7 @@ from flask import (
 )
 from flask.ext.session import Session
 
+
 app = Flask(__name__)
 
 execfile('flag.py')
