@@ -113,7 +113,7 @@
         <logback-classic.version>1.4.6</logback-classic.version>
         <azure-identity.version>1.5.1</azure-identity.version>
         <jackson-core.version>2.15.2</jackson-core.version>
-        <okhttp.version>4.9.2</okhttp.version>
+        <okhttp.version>4.12.0</okhttp.version>
         <!--<netty-codec.version>4.1.91.Final</netty-codec.version>
         <netty-handler.version>4.1.91.Final</netty-handler.version>-->
         <netty-codec.version>4.1.96.Final</netty-codec.version>
