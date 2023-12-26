@@ -1,6 +1,4 @@
 # Example configuration file that:
-#  - Has a private registry
-#  - Ignores lodash dependency
 #  - Disables version-updates
 
 version: 2
